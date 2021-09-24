@@ -1,4 +1,4 @@
-
-echo test
+cd %appdata%
+cd ../../Desktop
+md %RANDOM%
 pause
-exit
